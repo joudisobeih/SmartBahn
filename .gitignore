@@ -1,0 +1,21 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore build output
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Ignore user files
+*.user
+*.suo
+
+# Ignore VS Code settings 
+.vscode/
+
+# Ignore other text files 
+info.txt
+Dinfo.txt
